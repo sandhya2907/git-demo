@@ -1,1 +1,2 @@
-Hii there this is my new program
+Hii there this is my new program.
+Now i am trying to do write anything related to git.
